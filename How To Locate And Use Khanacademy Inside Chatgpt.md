@@ -1,6 +1,6 @@
 ---
 created: 2025-03-04T14:22:31+01:00
-modified: 2025-03-04T15:28:48+01:00
+modified: 2025-03-04T15:29:08+01:00
 ---
 
 # How To Locate And Use Khanacademy Inside Chatgpt
@@ -11,7 +11,7 @@ Khan Academy provides high-quality educational resources, and now you can access
 
 ---
 
-Step 1: Open **ChatGPT**
+Step 1: Open ChatGPT
 
 1. Open your preferred web browser (Chrome, Firefox, Edge, etc.).  
 
