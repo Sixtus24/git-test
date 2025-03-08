@@ -1,6 +1,6 @@
 ---
 created: 2025-03-04T14:22:31+01:00
-modified: 2025-03-04T15:29:08+01:00
+modified: 2025-03-08T10:05:50+01:00
 ---
 
 # How To Locate And Use Khanacademy Inside Chatgpt
@@ -16,6 +16,7 @@ Step 1: Open ChatGPT
 1. Open your preferred web browser (Chrome, Firefox, Edge, etc.).  
 
 2. Go to ChatGPT, https://chat.openai.com/ and log in using your OpenAI credentials.  
+
 
 3. Ensure you have an active session in ChatGPT before proceeding.  
 
