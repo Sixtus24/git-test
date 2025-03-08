@@ -9,7 +9,7 @@ Introduction
 
 Khan Academy provides high-quality educational resources, and now you can access its content directly within ChatGPT. This guide will walk you through how to search for Khan Academy videos, articles, and exercises inside ChatGPT and make the most of its learning resources.  
 
----
+
 
 Step 1: Open ChatGPT
 
